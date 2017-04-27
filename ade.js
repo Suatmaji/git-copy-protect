@@ -1,1 +1,1 @@
-ads=ads
+iklan=iklan
