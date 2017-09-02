@@ -1,1 +1,1 @@
-iklan=iklan
+var a=''
