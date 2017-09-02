@@ -1,1 +1,1 @@
-azgtr=azgtr
+var a=''
